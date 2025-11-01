@@ -3,7 +3,7 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-10-31T20:51:48.021058881-03:00"
+    created: "2025-10-31T21:04:25.362939105-03:00"
     description: Esse é o chart do Giropops-Senhas, utilizados nos laboratórios de
       Kubernetes.
     digest: b6b7fd079692ce53e2c22942913af39b0e842df7daf2a5b28f263716728ca5ca
@@ -11,6 +11,6 @@ entries:
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/badtuxx/chart-aula/giropops-senhas-0.1.0.tgz
+    - https://ivrlima.github.io/chart-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-31T20:51:48.012406105-03:00"
+generated: "2025-10-31T21:04:25.320546398-03:00"
